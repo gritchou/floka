@@ -1,0 +1,14 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	display: block;
+	background-color: black;
+	display: grid;
+	place-items: center;
+}
+
+img {
+	margin: auto;
+	width: 772px;
+	height: 969px;
+}
